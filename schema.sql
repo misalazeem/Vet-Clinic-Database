@@ -7,3 +7,6 @@ create table animals (
     neutered bit,
     weight_kg float
 );
+
+ALTER TABLE animals
+  ADD species varchar(100);
