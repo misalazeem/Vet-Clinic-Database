@@ -1,3 +1,31 @@
-/*Queries that provide answers to the questions from all projects.*/
+SELECT *
+from animals
+WHERE name like '%mon';
 
-SELECT * from animals WHERE name = 'Luna';
+SELECT NAME
+FROM animals
+WHERE date_of_birth >= '2016-01-01' AND date_of_birth <= '2019-12-31';
+
+SELECT NAME
+FROM animals
+WHERE neutered = '1' AND escape_attempts < 3;
+
+SELECT date_of_birth
+FROM animals
+WHERE name = 'Agumon' OR name= 'Pikachu';
+
+SELECT name, escape_attempts
+From animals
+WHERE weight_kg > 10.5;
+
+SELECT *
+FROM animals
+WHERE neutered = '1';
+
+SELECT *
+FROM animals
+WHERE name != 'Gabumon';
+
+SELECT *
+FROM animals
+WHERE weight_kg BETWEEN 10.4 AND 17.3;
