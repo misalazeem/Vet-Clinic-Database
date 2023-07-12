@@ -125,7 +125,7 @@ Example:
 
 - GitHub: [@misalazeem](https://github.com/misalazeem)
 - Twitter: [@misal_azeem](https://twitter.com/misal_azeem)
-- LinkedIn: https://www.linkedin.com/in/misal-94755a82/
+- LinkedIn: https://www.linkedin.com/in/misal-azeem/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

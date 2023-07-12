@@ -43,3 +43,30 @@ ALTER TABLE animals
 ADD FOREIGN KEY (owners_id) 
 REFERENCES owners(id)
 ON DELETE CASCADE;
+
+CREATE TABLE vets (
+    id integer GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    name varchar
+(100),
+    age integer,
+    date_of_graduation date
+);
+
+CREATE TABLE specializations
+(
+  vet_id integer,
+  species_id integer,
+  PRIMARY KEY (vet_id, species_id),
+  FOREIGN KEY (vet_id) REFERENCES vets(id) ON DELETE CASCADE,
+  FOREIGN KEY (species_id) REFERENCES species(id) ON DELETE CASCADE
+);
+
+CREATE TABLE visits
+(
+  animal_id integer,
+  vet_id integer,
+  visit_date date,
+  PRIMARY KEY (animal_id, vet_id, visit_date),
+  FOREIGN KEY (animal_id) REFERENCES animals(id) ON DELETE CASCADE,
+  FOREIGN KEY (vet_id) REFERENCES vets(id) ON DELETE CASCADE
+);
