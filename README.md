@@ -127,6 +127,29 @@ Example:
 - Twitter: [@misal_azeem](https://twitter.com/misal_azeem)
 - LinkedIn: https://www.linkedin.com/in/misal-azeem/
 
+👨‍💻 **Luis Zubia**
+
+<ul>
+  <li>
+      <a href="https://github.com/luigirazum">
+      <img align="center" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" alt="github logo" />
+      Github: <b>@luigirazum</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/LuigiRazum">
+      <img align="center" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter logo" />
+      Twitter: <b>@LuigiRazum</b>
+      </a>
+    </li>
+    <li>
+      <a href="https://linkedin.com/in/luiszubia">
+      <img align="center" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin logo" />
+      LinkedIn: <b>Luis Zubia</b>
+      </a>
+    </li>
+</ul>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
