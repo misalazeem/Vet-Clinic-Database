@@ -127,24 +127,6 @@ Example:
 - Twitter: [@misal_azeem](https://twitter.com/misal_azeem)
 - LinkedIn: https://www.linkedin.com/in/misal-azeem/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- Adding Update Queries
-- Adding multiple tables
-- Adding Join queries
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
 👨‍💻 **Luis Zubia**
 
 <ul>
@@ -167,6 +149,24 @@ Contributions, issues, and feature requests are welcome!
       </a>
     </li>
 </ul>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Adding Update Queries
+- Adding multiple tables
+- Adding Join queries
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
